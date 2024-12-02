@@ -2,7 +2,7 @@
 
 A quick start Angular project that shows how to create and customize port nodes programmatically and dynamically. This project includes code snippets to add multiple ports and customize them dynamically. It also includes code snippets for customizing the appearance and position of the ports, as well as how to connect nodes using ports.
 
-The ports documentation for the Syncfusion Angular Diagram component: 
+The ports documentation for the Syncfusion&reg; Angular Diagram component: 
 https://helpej2.syncfusion.com/angular/documentation/diagram/ports
 
 Check out the online ports example for the Angular Diagram component: 
