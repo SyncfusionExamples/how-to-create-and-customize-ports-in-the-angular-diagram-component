@@ -24,3 +24,5 @@ Make sure that you have the latest versions of NodeJS and Visual Studio Code in 
 ### How to run this application?
 
 To run this application, you need to clone the `how-to-create-and-customize-ports-in-the-angular-diagram-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `ng serve` command.
+
+> Looking for the full Angular Diagram component overview, features, pricing, and documentation? Visit the [Angular Diagram](https://www.syncfusion.com/angular-components/angular-diagram) page.
