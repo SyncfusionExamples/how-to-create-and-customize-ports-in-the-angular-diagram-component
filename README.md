@@ -1,6 +1,6 @@
 # How to Create and Customize Ports in the Angular Diagram Component
 
-A quick start Angular project that shows how to create and customize port nodes programmatically and dynamically. This project includes code snippets to add multiple ports and customize them dynamically. It also includes code snippets for customizing the appearance and position of the ports, as well as how to connect nodes using ports.
+A quick start Angular project that shows how to create and customize port nodes programmatically and dynamically using [Angular Diagram](https://www.syncfusion.com/diagram-sdk/angular-diagram). This project includes code snippets to add multiple ports and customize them dynamically. It also includes code snippets for customizing the appearance and position of the ports, as well as how to connect nodes using ports.
 
 The ports documentation for the Angular Diagram component: 
 https://helpej2.syncfusion.com/angular/documentation/diagram/ports
@@ -25,4 +25,4 @@ Make sure that you have the latest versions of NodeJS and Visual Studio Code in 
 
 To run this application, you need to clone the `how-to-create-and-customize-ports-in-the-angular-diagram-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `ng serve` command.
 
-> Looking for the full Angular Diagram component overview, features, pricing, and documentation? Visit the [Angular Diagram](https://www.syncfusion.com/angular-components/angular-diagram) page.
+> Looking for the full Angular Diagram component overview, features, pricing, and documentation? Visit the [Angular Diagram](https://www.syncfusion.com/diagram-sdk/angular-diagram) page.
